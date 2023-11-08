@@ -7,12 +7,12 @@
 </p>
 </br>
 
-<p align="left">As a junior Golang back end developer, I am eager to learn and grow in the world of software development. With a strong foundation in Golang, Python, MySQL, PostgreSQL, and gRPC, I am dedicated to honing my skills and gaining valuable experience in building robust back end solutions. I embrace challenges as opportunities for growth, and I am excited to contribute to innovative projects that make a difference. Let's collaborate and embark on this coding journey together!</p>
+<p align="left">As a junior Golang back end developer, I'm eager to learn and grow in the world of software development. With a strong foundation in Golang, I'm dedicated to honing my skills and gaining valuable experience in building robust back end solutions. I embrace challenges as opportunities for growth, and I am excited to contribute to innovative projects that make a difference. Let's collaborate and embark on this coding journey together!</p>
 
 </br>
 - 🌱 I’m currently learning RabbitMQ, Kafka, Redis, NoSQL<br>
 - 💬 Ask me about Golang, Python, gRPC and SQL<br>
-- 📫 How to reach me atdayewkemal@gmail.com<br>
+- 📫 How to reach me: atdayewkemal@gmail.com<br>
 
 </br>
 <h3 align="left">Languages and Tools:</h3>
