@@ -10,8 +10,8 @@
 <p align="left">As a Golang back-end developer, I am driven by a passion for continuous learning and professional growth. With a solid grasp of Golang, I am focused on enhancing my expertise and building dependable back-end systems. I welcome challenges as chances to improve and am enthusiastic about contributing to impactful projects. I'm excited to collaborate and advance in this coding journey together!</p>
 
 </br>
-- 🌱 I’m currently learning RabbitMQ, Redis<br>
-- 💬 Ask me about Golang, Python, gRPC and SQL<br>
+- 🌱 I’m currently learning Elasticsearch, Clickhouse<br>
+- 💬 Ask me about Golang, Python, gRPC, RabbitMQ, Redis, NoSQL, Websockets and SQL<br>
 - 📫 How to reach me: atdayewkemal@gmail.com<br>
 
 </br>
