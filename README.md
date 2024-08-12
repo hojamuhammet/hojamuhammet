@@ -7,7 +7,7 @@
 </p>
 </br>
 
-<p align="left">As a junior Golang back end developer, I'm eager to learn and grow in the world of software development. With a strong foundation in Golang, I'm dedicated to honing my skills and gaining valuable experience in building robust back end solutions. I embrace challenges as opportunities for growth, and I am excited to contribute to innovative projects that make a difference. Let's collaborate and embark on this coding journey together!</p>
+<p align="left">As a Golang back-end developer, I am driven by a passion for continuous learning and professional growth. With a solid grasp of Golang, I am focused on enhancing my expertise and building dependable back-end systems. I welcome challenges as chances to improve and am enthusiastic about contributing to impactful projects. I'm excited to collaborate and advance in this coding journey together!</p>
 
 </br>
 - 🌱 I’m currently learning RabbitMQ, Redis<br>
